@@ -1,1 +1,5 @@
 1. git init : git repository를 만든다
+2. git add <filename>
+   git add *
+   : 파일을 add
+3. aaa
