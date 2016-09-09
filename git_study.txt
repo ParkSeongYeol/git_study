@@ -1,6 +1,11 @@
 1. git init : git repository¸¦ ¸¸µç´Ù
+
 2. git add <filename>
    git add *
+
 3. git remote add origin http://USERNAME:PASSWORD@github.com/REPO_PATH.git
 git push origin master
 git remote remove origin
+
+4. git config --list
+$ git config --global --list
